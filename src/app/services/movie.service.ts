@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class MovieService {
-  private apiUrl = 'http://catalogo-k0at.onrender.com/api/movies';
+  private apiUrl = 'https://catalogo-k0at.onrender.com/api/movies';
 
   constructor(private http: HttpClient) {}
 
