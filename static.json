@@ -1,0 +1,7 @@
+{
+  "root": "dist/catalogo-frontend2",
+  "cleanUrls": true,
+  "routes": {
+    "/**": "index.html"
+  }
+}
